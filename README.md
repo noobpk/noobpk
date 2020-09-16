@@ -1,16 +1,18 @@
-### Hi there 👋
+🚀🚀🚀
 
-<!--
-**noobpk/noobpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I am a Pentester for a company in VietNam. Besides that I am a researcher on @Hacker0x01 🌵 @Bugcrowd 🌵@Hackthebox.
 
-Here are some ideas to get you started:
+### 🔖 Find me on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔎[Bugcrowd](https://bugcrowd.com/noobpk)
+- 🦑[Gists](https://gist.github.com/noobpk)
+- 📁[Linkedin](https://www.linkedin.com/in/ltp-noobpk)
+- 📖 [Medium](https://medium.com/@lethanhphuc.pk)
+- 🔎[HackerOne](https://hackerone.com/noobpk)
+- 📦[Hackthebox](https://www.hackthebox.eu/profile/375639)
+
+<img src="http://www.hackthebox.eu/badge/image/375639" alt="Hack The Box">
+
+## Support poor children 🤓
+[<img src="https://user-images.githubusercontent.com/31820707/93345279-d1dfb480-f85c-11ea-8c36-f4d7db35a06b.png" width="200">](https://www.buymeacoffee.com/noobpk)
+
