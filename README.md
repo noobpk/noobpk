@@ -6,19 +6,19 @@
 
 |🌱🌱🌱🌱|🌾🌾🌾🌾|🎋🎋🎋🎋|
 |---|---|---|
-|☘️[Personal](http://noobpk.github.io)|   |   |
+|🐾[Personal](http://noobpk.github.io)|   |   |
 |📦[Hackthebox](https://www.hackthebox.eu/profile/375639)|
 |👾[Bugcrowd](https://bugcrowd.com/noobpk)|💀[HackerOne](https://hackerone.com/noobpk)|
-|🦑[Gists](https://gist.github.com/noobpk) |📁[Linkedin](https://www.linkedin.com/in/ltp-noobpk)|📚 [Medium](https://medium.com/@lethanhphuc.pk)|
+|🦑[Gists](https://gist.github.com/noobpk) |📁[Linkedin](https://www.linkedin.com/in/ltp-noobpk)|📝 [Medium](https://medium.com/@lethanhphuc.pk)|
 
-### Licenses & Certifications:
+### 🏆 Licenses & Certifications:
 
 |eLearnSecurity|OffensiveSecurity|Codebashing LTD|Udemy|
 |---|---|---|---|
 |eJPT|   |   |   |
 |eWPT|   |   |   |
 |eMAPT|   |   |   |
-|eCPPT|   |   |   |
+|eCPPTv2|   |   |   |
 <img src="http://www.hackthebox.eu/badge/image/375639" alt="Hack The Box">
 
 ## Support poor children 🤓
