@@ -7,9 +7,10 @@
 |🌱🌱🌱🌱|🌾🌾🌾🌾|🎋🎋🎋🎋|
 |---|---|---|
 |🐾[Personal](http://noobpk.github.io)|   |   |
-|📦[Hackthebox](https://www.hackthebox.eu/profile/375639)|
-|👾[Bugcrowd](https://bugcrowd.com/noobpk)|💀[HackerOne](https://hackerone.com/noobpk)|
-|🦑[Gists](https://gist.github.com/noobpk) |📁[Linkedin](https://www.linkedin.com/in/ltp-noobpk)|📝 [Medium](https://medium.com/@lethanhphuc.pk)|
+|🦑[Gists](https://gist.github.com/noobpk)|🦊[GitLab](https://gitlab.com/noobpk)|
+|📁[Linkedin](https://www.linkedin.com/in/ltp-noobpk)|📝 [Medium](https://medium.com/@lethanhphuc.pk)|
+|📦[Hackthebox](https://www.hackthebox.eu/profile/375639)|👾[Bugcrowd](https://bugcrowd.com/noobpk)|💀[HackerOne](https://hackerone.com/noobpk)|
+
 
 ### 🏆 Licenses & Certifications:
 
