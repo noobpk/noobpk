@@ -2,6 +2,9 @@
 
 👋 Hi! I am a Pentester for a company in VietNam. Besides that I am a researcher on @Hacker0x01 🌵 @Bugcrowd 🌵 @Hackthebox 🌵.
 
+![noobpk github stats](https://github-readme-stats.vercel.app/api?username=noobpk&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=noobpk&layout=compact&theme=dark)
+
 ### 🔖 Find me on:
 
 |🌱🌱🌱🌱|🌾🌾🌾🌾|🎋🎋🎋🎋|
