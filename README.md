@@ -23,7 +23,10 @@
 |eWPT|   |   |   |
 |eMAPT|   |   |   |
 |eCPPTv2|   |   |   |
-<img src="http://www.hackthebox.eu/badge/image/375639" alt="Hack The Box">
+
+[<img src="http://www.hackthebox.eu/badge/image/375639" alt="Hack The Box">](https://www.hackthebox.eu/profile/375639)
+
+![noobpk github trophy](https://github-profile-trophy.vercel.app/?username=noobpk&theme=onedark)
 
 ## Support poor children 🤓
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200">](https://www.buymeacoffee.com/noobpk)
