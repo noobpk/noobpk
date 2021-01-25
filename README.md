@@ -26,4 +26,4 @@
 <img src="http://www.hackthebox.eu/badge/image/375639" alt="Hack The Box">
 
 ## Support poor children 🤓
-[<img src="https://user-images.githubusercontent.com/31820707/93345279-d1dfb480-f85c-11ea-8c36-f4d7db35a06b.png" width="200">](https://www.buymeacoffee.com/noobpk)
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200">](https://www.buymeacoffee.com/noobpk)
