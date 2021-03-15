@@ -17,12 +17,12 @@
 
 ### 🏆 Licenses & Certifications:
 
-|eLearnSecurity|OffensiveSecurity|Codebashing LTD|Udemy|
-|---|---|---|---|
-|eJPT|   |   |   |
-|eWPT|   |   |   |
-|eMAPT|   |   |   |
-|eCPPTv2|   |   |   |
+|eLearnSecurity|OffensiveSecurity|
+|---|---|
+|eJPT|OSCP|
+|eWPT|   |
+|eMAPT|   |
+|eCPPTv2|   |
 
 [<img src="http://www.hackthebox.eu/badge/image/375639" alt="Hack The Box">](https://www.hackthebox.eu/profile/375639)
 
