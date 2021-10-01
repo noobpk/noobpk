@@ -1,6 +1,6 @@
 🚀🚀🚀
 
-👋 Hi! I am a Pentester for a company in VietNam. Besides that I am a researcher on @Hacker0x01 🌵 @Bugcrowd 🌵 @Hackthebox 🌵.
+👋 Hi! I am a Pentester for a company in VietNam. Besides that I am a researcher on @Huntr 🌵 @Hackthebox 🌵 @Hacker0x01 🌵 @Bugcrowd.
 
 ![noobpk github stats](https://github-readme-stats.vercel.app/api?username=noobpk&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=noobpk&layout=compact&theme=dark)
@@ -11,7 +11,7 @@
 |---|---|---|
 |🐾[Personal](http://noobpk.github.io)|   |   |
 |🦑[Gists](https://gist.github.com/noobpk)|🦊[GitLab](https://gitlab.com/noobpk)|
-|📁[Linkedin](https://www.linkedin.com/in/ltp-noobpk)|📝 [Medium](https://medium.com/@lethanhphuc.pk)|
+|📁[Linkedin](https://www.linkedin.com/in/ltp-noobpk)|📝 [Medium](https://medium.com/@lethanhphuc.pk)| 💻[Huntr](https://huntr.dev/users/noobpk/)
 |📦[Hackthebox](https://www.hackthebox.eu/profile/375639)|👾[Bugcrowd](https://bugcrowd.com/noobpk)|💀[HackerOne](https://hackerone.com/noobpk)|
 
 
