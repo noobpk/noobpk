@@ -26,6 +26,12 @@
 
 [<img src="http://www.hackthebox.eu/badge/image/375639" alt="Hack The Box">](https://www.hackthebox.eu/profile/375639)
 
+### 🔎 CVEs:
+|ID|
+|---|
+|CVE-2021-3863|
+|CVE-2021-3879|
+
 ![noobpk github trophy](https://github-profile-trophy.vercel.app/?username=noobpk&theme=onedark)
 
 ## Support poor children 🤓
