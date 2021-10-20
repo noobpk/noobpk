@@ -27,10 +27,10 @@
 [<img src="http://www.hackthebox.eu/badge/image/375639" alt="Hack The Box">](https://www.hackthebox.eu/profile/375639)
 
 ### 🔎 CVEs:
-|ID|
-|---|
-|CVE-2021-3863|
-|CVE-2021-3879|
+|ID|CVSS Vector|Score|
+|---|---|---|
+|CVE-2021-3863|CVSS:3.0/AV:N/AC:L/PR:L/UI:R/S:U/C:L/I:L/A:L|5.5 Medium|
+|CVE-2021-3879|CVSS:3.0/AV:N/AC:L/PR:H/UI:R/S:U/C:H/I:H/A:H|6.8 Medium|
 
 ![noobpk github trophy](https://github-profile-trophy.vercel.app/?username=noobpk&theme=onedark)
 
