@@ -29,10 +29,10 @@
 ### 🔎 CVEs:
 |ID|CVSS Vector|Score|
 |---|---|---|
-|[CVE-2021-3863](https://snyk.io/vuln/SNYK-PHP-SNIPESNIPEIT-1759540)|CVSS:3.0/AV:N/AC:L/PR:L/UI:R/S:U/C:L/I:L/A:L|5.5 Medium|
-|[CVE-2021-3879](https://snyk.io/vuln/SNYK-PHP-SNIPESNIPEIT-1759519)|CVSS:3.0/AV:N/AC:L/PR:H/UI:R/S:U/C:H/I:H/A:H|6.8 Medium|
-|CVE-2021-3945||
-|CVE-2021-3950||
+|[CVE-2021-3863](https://nvd.nist.gov/vuln/detail/CVE-2021-3863)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 Medium|
+|[CVE-2021-3879](https://nvd.nist.gov/vuln/detail/CVE-2021-3879)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 Medium|
+|[CVE-2021-3945](https://nvd.nist.gov/vuln/detail/CVE-2021-3945)||
+|[CVE-2021-3950](https://nvd.nist.gov/vuln/detail/CVE-2021-3950)||
 
 ![noobpk github trophy](https://github-profile-trophy.vercel.app/?username=noobpk&theme=onedark)
 
