@@ -34,6 +34,7 @@
 |[CVE-2021-3945](https://nvd.nist.gov/vuln/detail/CVE-2021-3945)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 Medium|
 |[CVE-2021-3950](https://nvd.nist.gov/vuln/detail/CVE-2021-3950)||
 |[CVE-2021-3985](https://nvd.nist.gov/vuln/detail/CVE-2021-3985)||
+|[CVE-2021-3994](https://nvd.nist.gov/vuln/detail/CVE-2021-3994)||
 
 ![noobpk github trophy](https://github-profile-trophy.vercel.app/?username=noobpk&theme=onedark)
 
