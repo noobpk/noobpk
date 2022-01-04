@@ -2,10 +2,12 @@
 
 ### Hi there! I'm LTPhuc - aka Pk 👋
 
-#### I'm a Pentester for a company in VietNam. Besides that I am a researcher on @Huntr 🌵 @Hackthebox 🌵 @Hacker0x01 🌵 @Bugcrowd.
+#### I'm a Pentester for a company in VietNam. Besides that I'm a researcher on bugbounty platforms.
 
-![noobpk github stats](https://github-readme-stats.vercel.app/api?username=noobpk&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=noobpk&layout=compact&theme=dark)
+- 🌱 I am currently learning more security certifications to improve my level
+- ⚒ I am developing tools based on frida
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: 🤔🤔🤔🤔
 
 ### 🔖 Connect with me:
 
@@ -15,6 +17,16 @@
 [<img align="left" alt="noobpk | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 [<img align="left" alt="noobpk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+
+### Research platform:
+
+[<img align="left" alt="noobpk | Hackthebox" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/hackthebox.svg" />][hackthebox]
+[<img align="left" alt="noobpk | HackerOne" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerone.svg" />][hackerone]
+[<img align="left" alt="noobpk | Bugcrowd" width="22px" src="https://raw.githubusercontent.com/noobpk/noobpk.github.io/master/assets/img/bugcrowd.svg" />][bugcrowd]
+[<img align="left" alt="noobpk | Huntr" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Hacker_behind_PC.svg" />][huntr]
+
+<br />
 
 ### 🏆 Licenses & Certifications:
 
@@ -25,8 +37,6 @@
 |eMAPT|   |
 |eCPPTv2|   |
 
-[<img src="http://www.hackthebox.eu/badge/image/375639" alt="Hack The Box">](https://www.hackthebox.eu/profile/375639)
-
 ### 🔎 CVEs:
 |ID|CVSS Vector|Score|
 |---|---|---|
@@ -36,6 +46,11 @@
 |[CVE-2021-3950](https://nvd.nist.gov/vuln/detail/CVE-2021-3950)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 Medium|
 |[CVE-2021-3985](https://nvd.nist.gov/vuln/detail/CVE-2021-3985)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:H|9.0 Critical|
 |[CVE-2021-3994](https://nvd.nist.gov/vuln/detail/CVE-2021-3994)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:H|9.6 Critical|
+
+---
+
+![noobpk github stats](https://github-readme-stats.vercel.app/api?username=noobpk&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=noobpk&layout=compact&theme=dark)
 
 ![noobpk github trophy](https://github-profile-trophy.vercel.app/?username=noobpk&theme=onedark)
 
