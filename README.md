@@ -57,6 +57,11 @@
 - [Frida iOS Hook](https://lethanhphuc-pk.medium.com/frida-ios-hook-5bb5c6b327a2?source=rss-f49608fd9825------2)
 - [[Bug!Bounty] Missing Authentication in TheCoffeeHouse Api](https://lethanhphuc-pk.medium.com/bugnotbounty-missing-authentication-in-thecoffeehouse-api-1f5e5e2e5993?source=rss-f49608fd9825------2)
 <!-- BLOG-POST-LIST:END -->
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 ---
 
 ![noobpk github stats](https://github-readme-stats.vercel.app/api?username=noobpk&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
