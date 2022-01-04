@@ -48,7 +48,7 @@
 |[CVE-2021-3994](https://nvd.nist.gov/vuln/detail/CVE-2021-3994)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:H|9.6 Critical|
 
 ---
-### 📕 Latest Blog Posts
+### :writing_hand: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [[BugBounty] XSS with Markdown — Exploit &amp; Fix on OpenSource](https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645?source=rss-f49608fd9825------2)
