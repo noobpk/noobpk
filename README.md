@@ -1,18 +1,19 @@
 🚀🚀🚀
 
-👋 Hi! I am a Pentester for a company in VietNam. Besides that I am a researcher on @Huntr 🌵 @Hackthebox 🌵 @Hacker0x01 🌵 @Bugcrowd.
+### Hi there! I'm LTPhuc - aka Pk 👋
+
+#### I'm a Pentester for a company in VietNam. Besides that I am a researcher on @Huntr 🌵 @Hackthebox 🌵 @Hacker0x01 🌵 @Bugcrowd.
 
 ![noobpk github stats](https://github-readme-stats.vercel.app/api?username=noobpk&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=noobpk&layout=compact&theme=dark)
 
-### 🔖 Find me on:
+### 🔖 Connect with me:
 
-|🌱🌱🌱🌱|🌾🌾🌾🌾|🎋🎋🎋🎋|
-|---|---|---|
-|🐾[Personal](http://noobpk.github.io)|   |   |
-|🦑[Gists](https://gist.github.com/noobpk)|🦊[GitLab](https://gitlab.com/noobpk)|
-|📁[Linkedin](https://www.linkedin.com/in/ltp-noobpk)|📝 [Medium](https://medium.com/@lethanhphuc.pk)| 💻[Huntr](https://huntr.dev/users/noobpk/)
-|📦[Hackthebox](https://www.hackthebox.eu/profile/375639)|👾[Bugcrowd](https://bugcrowd.com/noobpk)|💀[HackerOne](https://hackerone.com/noobpk)|
+[<img align="left" alt="noobpk.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="noobpk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="noobpk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="noobpk | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
+[<img align="left" alt="noobpk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 ### 🏆 Licenses & Certifications:
@@ -40,3 +41,15 @@
 
 ## Support poor children 🤓
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200">](https://www.buymeacoffee.com/noobpk)
+
+[website]: http://noobpk.github.io
+[youtube]: https://www.youtube.com/channel/UCpd95cbpE3tkYkwjYA9JQCA
+[instagram]: https://www.instagram.com/lethanhphuc.pk/
+[linkedin]: https://www.linkedin.com/in/ltp-noobpk
+[gists]: https://gist.github.com/noobpk
+[gitlab]: https://gitlab.com/noobpk
+[medium]: https://medium.com/@lethanhphuc.pk
+[huntr]: https://huntr.dev/users/noobpk/
+[hackthebox]: https://www.hackthebox.eu/profile/375639
+[bugcrowd]: https://bugcrowd.com/noobpk
+[hackerone]: https://hackerone.com/noobpk
