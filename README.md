@@ -48,6 +48,11 @@
 |[CVE-2021-3994](https://nvd.nist.gov/vuln/detail/CVE-2021-3994)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:H|9.6 Critical|
 
 ---
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+---
 
 ![noobpk github stats](https://github-readme-stats.vercel.app/api?username=noobpk&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=noobpk&layout=compact&theme=dark)
