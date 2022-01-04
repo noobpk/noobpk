@@ -1,25 +1,26 @@
 🚀🚀🚀
 
-### Hi there! I'm LTPhuc - aka Pk 👋
+### Hi there! I'm LTPhuc - aka Pk <a href="https://noobpk.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-#### I'm a Pentester for a company in VietNam. Besides that I'm a researcher on bugbounty platforms.
+### I'm a Pentester for a company in VietNam. Besides that I'm a researcher on bugbounty platforms.
 
 - 🌱 I am currently learning more security certifications to improve my level
-- ⚒ I am developing tools based on frida
+- 🔭 I am currently developing tools based on frida
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: 🤔🤔🤔🤔
 
-### 🔖 Connect with me:
+### 🔗 Connect with me:
 
-[<img align="left" alt="noobpk.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="noobpk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="noobpk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="noobpk | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
-[<img align="left" alt="noobpk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="noobpk.github.io" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Breezeicons-apps-32-preferences-system-network.svg" />][website]
+[<img align="left" alt="noobpk | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="noobpk | YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
+[<img align="left" alt="noobpk | Medium" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
+[<img align="left" alt="noobpk | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 
 <br />
 
-### Research platform:
+
+### Research platforms:
 
 [<img align="left" alt="noobpk | Hackthebox" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/hackthebox.svg" />][hackthebox]
 [<img align="left" alt="noobpk | HackerOne" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerone.svg" />][hackerone]
@@ -68,16 +69,14 @@
 - [Zikula CMS 3.0 - Stored XSS via Block module &#39;ZikulaBlocksModule/Xslt&#39;](https://www.youtube.com/watch?v=T6mIIvQB1xM)
 <!-- YOUTUBE:END -->
 ---
-
+### :zap: GitHub Stats
+  
 ![noobpk github stats](https://github-readme-stats.vercel.app/api?username=noobpk&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=noobpk&layout=compact&theme=dark)
 
 ![noobpk github trophy](https://github-profile-trophy.vercel.app/?username=noobpk&theme=onedark)
 
-## Support poor children 🤓
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200">](https://www.buymeacoffee.com/noobpk)
-
-[website]: http://noobpk.github.io
+[website]: https://noobpk.github.io
 [youtube]: https://www.youtube.com/channel/UCpd95cbpE3tkYkwjYA9JQCA
 [instagram]: https://www.instagram.com/lethanhphuc.pk/
 [linkedin]: https://www.linkedin.com/in/ltp-noobpk
