@@ -47,6 +47,11 @@
 |[CVE-2021-3950](https://nvd.nist.gov/vuln/detail/CVE-2021-3950)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 Medium|
 |[CVE-2021-3985](https://nvd.nist.gov/vuln/detail/CVE-2021-3985)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:H|9.0 Critical|
 |[CVE-2021-3994](https://nvd.nist.gov/vuln/detail/CVE-2021-3994)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:H|9.6 Critical|
+|[CVE-2020-25528](https://nvd.nist.gov/vuln/detail/CVE-2020-25528)|-|-|
+|[CVE-2021-40232](https://nvd.nist.gov/vuln/detail/CVE-2021-40232)|-|-|
+|[CVE-2021-40233](https://nvd.nist.gov/vuln/detail/CVE-2021-40233)|-|-|
+|[CVE-2021-40234](https://nvd.nist.gov/vuln/detail/CVE-2021-40234)|-|-|
+
 
 ---
 ### :writing_hand: Latest Blog Posts
