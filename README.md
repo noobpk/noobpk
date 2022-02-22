@@ -68,11 +68,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [maguttiCms 8.62 - RCE  via upload file image or document with contain arbitrary code &lpar;php&rpar;](https://www.youtube.com/watch?v=8nE8ZYVGfe4)
-- [[CVE-2021-3879] Snipe-IT 5.2 - Dom XSS via parameter &#39;name&#39; when Export data](https://www.youtube.com/watch?v=JLeN1dFJytM)
-- [[CVE-2021-3863] Snipe-IT 5.2 - Generic XSS via File Uploads](https://www.youtube.com/watch?v=WCUo8IqMvOU)
-- [Zikula CMS 3.0 - Stored XSS via External element Feed RSS](https://www.youtube.com/watch?v=3YY4XVr1Pds)
-- [Zikula CMS 3.0 - Stored XSS via Block module &#39;ZikulaBlocksModule/Xslt&#39;](https://www.youtube.com/watch?v=T6mIIvQB1xM)
+- [Frida iOS Hook | Basic Usage | Install - List devices - List apps - List scripts - Logcat - Shell](https://www.youtube.com/watch?v=xSndHgTdv4w)
+- [Automation change tor ip address | Advance Usage | Burp Suite - Nmap - Bypass Firewall  Block Ip](https://www.youtube.com/watch?v=X4avfaYWGtw)
+- [Automation change tor ip address | Basic Usage | Tor - Privoxy - Bypass Firewall  Block Ip](https://www.youtube.com/watch?v=GxnUKkYEHcw)
 <!-- YOUTUBE:END -->
 ---
 ### :zap: GitHub Stats
