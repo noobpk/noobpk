@@ -68,6 +68,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Frida iOS Hook | Basic Usage | Dump Decrypt IPA - Dump Memory App - Hexbyte-Scan IPA](https://www.youtube.com/watch?v=AUsJ9_gnWAI)
 - [Frida iOS Hook | Basic Usage | Install - List devices - List apps - List scripts - Logcat - Shell](https://www.youtube.com/watch?v=xSndHgTdv4w)
 - [Automation change tor ip address | Advance Usage | Burp Suite - Nmap - Bypass Firewall  Block Ip](https://www.youtube.com/watch?v=X4avfaYWGtw)
 - [Automation change tor ip address | Basic Usage | Tor - Privoxy - Bypass Firewall  Block Ip](https://www.youtube.com/watch?v=GxnUKkYEHcw)
