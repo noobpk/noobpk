@@ -68,6 +68,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Frida iOS Hook |  Basic Usage | App Static - Bypass Jailbreak - Bypass SSL - Intercept URL + Crypto](https://www.youtube.com/watch?v=nWhKDSzArf8)
 - [Frida iOS Hook | Basic Usage | Dump Decrypt IPA - Dump Memory App - Hexbyte-Scan IPA](https://www.youtube.com/watch?v=AUsJ9_gnWAI)
 - [Frida iOS Hook | Basic Usage | Install - List devices - List apps - List scripts - Logcat - Shell](https://www.youtube.com/watch?v=xSndHgTdv4w)
 - [Automation change tor ip address | Advance Usage | Burp Suite - Nmap - Bypass Firewall  Block Ip](https://www.youtube.com/watch?v=X4avfaYWGtw)
