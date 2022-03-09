@@ -52,6 +52,7 @@
 |[CVE-2021-40233](https://nvd.nist.gov/vuln/detail/CVE-2021-40233)|-|-|
 |[CVE-2021-40234](https://nvd.nist.gov/vuln/detail/CVE-2021-40234)|-|-|
 |[CVE-2022-0539](https://nvd.nist.gov/vuln/detail/CVE-2022-0539)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 Medium|
+|[CVE-2022-0894](https://nvd.nist.gov/vuln/detail/CVE-2022-0539)|-|-|
 
 
 ---
