@@ -40,20 +40,20 @@
 |eCPPTv2|   |
 
 ### 🔎 CVEs:
-|ID|CVSS Vector|Score|
-|---|---|---|
-|[CVE-2020-25528](https://nvd.nist.gov/vuln/detail/CVE-2020-25528)|-|-|
-|[CVE-2021-3863](https://nvd.nist.gov/vuln/detail/CVE-2021-3863)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 Medium|
-|[CVE-2021-3879](https://nvd.nist.gov/vuln/detail/CVE-2021-3879)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 Medium|
-|[CVE-2021-3945](https://nvd.nist.gov/vuln/detail/CVE-2021-3945)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 Medium|
-|[CVE-2021-3950](https://nvd.nist.gov/vuln/detail/CVE-2021-3950)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 Medium|
-|[CVE-2021-3985](https://nvd.nist.gov/vuln/detail/CVE-2021-3985)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:H|9.0 Critical|
-|[CVE-2021-3994](https://nvd.nist.gov/vuln/detail/CVE-2021-3994)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:H|9.6 Critical|
-|[CVE-2021-40232](https://nvd.nist.gov/vuln/detail/CVE-2021-40232)|-|-|
-|[CVE-2021-40233](https://nvd.nist.gov/vuln/detail/CVE-2021-40233)|-|-|
-|[CVE-2021-40234](https://nvd.nist.gov/vuln/detail/CVE-2021-40234)|-|-|
-|[CVE-2022-0539](https://nvd.nist.gov/vuln/detail/CVE-2022-0539)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 Medium|
-|[CVE-2022-0894](https://nvd.nist.gov/vuln/detail/CVE-2022-0894)|-|-|
+|ID|CVSS Vector|Score|Product|
+|---|---|---|---|
+|[CVE-2020-25528](https://nvd.nist.gov/vuln/detail/CVE-2020-25528)|-|-|[Cutephp](https://github.com/CuteNews/cutenews-2.0)|
+|[CVE-2021-3863](https://nvd.nist.gov/vuln/detail/CVE-2021-3863)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 Medium|[Snipe-IT](https://github.com/snipe/snipe-it)|
+|[CVE-2021-3879](https://nvd.nist.gov/vuln/detail/CVE-2021-3879)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 Medium|[Snipe-IT](https://github.com/snipe/snipe-it)|
+|[CVE-2021-3945](https://nvd.nist.gov/vuln/detail/CVE-2021-3945)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 Medium|[Django-Helpdesk](https://github.com/django-helpdesk/django-helpdesk)|
+|[CVE-2021-3950](https://nvd.nist.gov/vuln/detail/CVE-2021-3950)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 Medium|[Django-Helpdesk](https://github.com/django-helpdesk/django-helpdesk)|
+|[CVE-2021-3985](https://nvd.nist.gov/vuln/detail/CVE-2021-3985)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:H|9.0 Critical|[Kimai2](https://github.com/kevinpapst/kimai2)|
+|[CVE-2021-3994](https://nvd.nist.gov/vuln/detail/CVE-2021-3994)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:H|9.6 Critical|[Django-Helpdesk](https://github.com/django-helpdesk/django-helpdesk)|
+|[CVE-2021-40232](https://nvd.nist.gov/vuln/detail/CVE-2021-40232)|-|-|[Pluck-CMS](https://github.com/pluck-cms/pluck)|
+|[CVE-2021-40233](https://nvd.nist.gov/vuln/detail/CVE-2021-40233)|-|-|[Typi-CMS](https://github.com/TypiCMS)|
+|[CVE-2021-40234](https://nvd.nist.gov/vuln/detail/CVE-2021-40234)|-|-|[Typi-CMS](https://github.com/TypiCMS)|
+|[CVE-2022-0539](https://nvd.nist.gov/vuln/detail/CVE-2022-0539)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 Medium|[Beanstalk_Console](https://github.com/ptrofimov/beanstalk_console)|
+|[CVE-2022-0894](https://nvd.nist.gov/vuln/detail/CVE-2022-0894)|-|-|[Pimcore](https://github.com/pimcore/pimcore)|
 
 
 ---
