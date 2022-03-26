@@ -70,11 +70,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Frida iOS Intercept API | Demo | How to Intercept Encrypted APIs on SaiGon Smart Banking Application](https://www.youtube.com/watch?v=_WR-4tXEeg4)
 - [Frida iOS Intercept API | Demo | How to Intercept Encrypted APIs on BaoViet Smart Application](https://www.youtube.com/watch?v=nrRlqJ8xpCo)
 - [Frida iOS Intercept API | Demo | How to Intercept Encrypted APIs on  OceanBank Application](https://www.youtube.com/watch?v=cJwLdXd6dhg)
 - [Frida iOS Intercept API | Technical | How to Intercept Encrypted APIs on The Application | Part 2](https://www.youtube.com/watch?v=IojcakLNtrA)
 - [Frida iOS Intercept API | Technical | How to Intercept Encrypted APIs on The Application | Part 1](https://www.youtube.com/watch?v=BIB3ma3Tl34)
-- [Frida iOS Hook |  Basic Usage | App Static - Bypass Jailbreak - Bypass SSL - Intercept URL + Crypto](https://www.youtube.com/watch?v=nWhKDSzArf8)
 <!-- YOUTUBE:END -->
 ---
 ### :zap: GitHub Stats
