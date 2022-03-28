@@ -84,6 +84,9 @@
 
 ![noobpk github trophy](https://github-profile-trophy.vercel.app/?username=noobpk&theme=onedark)
 
+---
+![](https://komarev.com/ghpvc/?username=Noobpk&color=red&style=for-the-badge)
+
 [website]: https://noobpk.github.io
 [youtube]: https://www.youtube.com/channel/UCpd95cbpE3tkYkwjYA9JQCA
 [instagram]: https://www.instagram.com/lethanhphuc.pk/
