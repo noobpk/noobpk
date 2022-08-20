@@ -61,11 +61,11 @@
 ### :writing_hand: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Jailbreak] Tutorial downgrade from iOS 15.6.1 to iOS 14.6 with sunst0rm](https://lethanhphuc-pk.medium.com/jailbreak-tutorial-downgrade-from-ios-15-6-1-to-ios-14-6-with-sunst0rm-d5626101423b?source=rss-f49608fd9825------2)
 - [[BugBounty] XSS with Markdown — Exploit &amp; Fix on OpenSource](https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645?source=rss-f49608fd9825------2)
 - [Frida iOS Intercept Api](https://lethanhphuc-pk.medium.com/frida-ios-intercept-api-a5c4ef22a093?source=rss-f49608fd9825------2)
 - [[Bug!Bounty] Multiple Bug Found on NCOVID Mobile Application](https://lethanhphuc-pk.medium.com/bugbounty-multiple-bug-found-on-ncovid-mobile-application-609fa3468388?source=rss-f49608fd9825------2)
 - [Frida iOS Hook](https://lethanhphuc-pk.medium.com/frida-ios-hook-5bb5c6b327a2?source=rss-f49608fd9825------2)
-- [[Bug!Bounty] Missing Authentication in TheCoffeeHouse Api](https://lethanhphuc-pk.medium.com/bugnotbounty-missing-authentication-in-thecoffeehouse-api-1f5e5e2e5993?source=rss-f49608fd9825------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
