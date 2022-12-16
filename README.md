@@ -32,12 +32,12 @@
 
 ### 🏆 Licenses & Certifications:
 
-|eLearnSecurity|OffensiveSecurity|
-|---|---|
-|eJPT|OSCP|
-|eWPT|   |
-|eMAPT|   |
-|eCPPTv2|   |
+|eLearnSecurity|Offensive Security|The SecOps Grouup|
+|---|---|---|
+|eJPT|OSCP|CAP|
+|eWPT|   |   |
+|eMAPT|   |   |
+|eCPPTv2|   |   |
 
 ### 🔎 CVEs:
 |ID|CVSS Vector|Score|Product|
