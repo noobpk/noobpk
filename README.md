@@ -4,9 +4,10 @@
 
 ### I'm a Pentester for a company in VietNam. Besides that I'm a researcher on bugbounty platforms.
 
+- 🌱 I am currently studying for a master's degree at the Vietnam National University HCMC - University of Information Technology
 - 🌱 I am currently learning more security certifications to improve my level
-- 🔭 I am currently developing tools based on frida
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🔭 I am currently developing the runtime application self protection (RASP) solution combined with deep learning
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: 🤔🤔🤔🤔
 
 ### 🔗 Connect with me:
