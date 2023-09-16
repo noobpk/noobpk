@@ -75,8 +75,8 @@
 - [Frida iOS Hook | Advance Usage | Memory Dump - Radare2 - Iaito](https://www.youtube.com/watch?v=nUqE4EYWiEc)
 - [Gemini-Self-Protector | Demo | Install - Configurate - Usage](https://www.youtube.com/watch?v=sUJsJE29KcE)
 - [Jailbreak | How to downgrade from iOS 15.6.1 to iOS 14.6 with sunst0rm](https://www.youtube.com/watch?v=Qly_uktHuQs)
-- [Frida iOS Intercept API | Technical | How to Intercept Encrypted APIs on The Application | Part 2](https://www.youtube.com/watch?v=IojcakLNtrA)
-- [Frida iOS Intercept API | Technical | How to Intercept Encrypted APIs on The Application | Part 1](https://www.youtube.com/watch?v=BIB3ma3Tl34)
+- [Frida Intercept API | Technical | How to Intercept Encrypted APIs on The Application | Part 2](https://www.youtube.com/watch?v=IojcakLNtrA)
+- [Frida Intercept API | Technical | How to Intercept Encrypted APIs on The Application | Part 1](https://www.youtube.com/watch?v=BIB3ma3Tl34)
 <!-- YOUTUBE:END -->
 ---
 ### :zap: GitHub Stats
