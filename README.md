@@ -2,7 +2,7 @@
 
 ### Hi there! I'm LTPhuc - aka Pk <a href="https://noobpk.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>
 
-### I'm a Pentester for a company in VietNam. Besides that I'm a researcher on bugbounty platforms.
+### I'm a Senior, Information Security for a company in VietNam. Besides that I'm a security researcher.
 
 - 🌱 I am currently studying for a master's degree at the Vietnam National University HCMC - University of Information Technology
 - 🌱 I am currently learning more security certifications to improve my level
