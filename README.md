@@ -33,10 +33,10 @@
 
 ### 🏆 Licenses & Certifications:
 
-|eLearnSecurity|Offensive Security|The SecOps Grouup|
-|---|---|---|
-|eJPT|OSCP|CAP|
-|eWPT|   |   |
+|eLearnSecurity|Offensive Security|The SecOps Grouup| APIsec University |
+|---|---|---| --- |
+|eJPT|OSCP|CAP|API Penetration Testing |
+|eWPT|   |   | API Security for PCI Compliance |
 |eMAPT|   |   |
 |eCPPTv2|   |   |
 
