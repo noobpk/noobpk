@@ -57,6 +57,9 @@
 |[CVE-2022-0894](https://nvd.nist.gov/vuln/detail/CVE-2022-0894)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 Medium|[Pimcore](https://github.com/pimcore/pimcore)|
 |[CVE-2022-28378](https://nvd.nist.gov/vuln/detail/CVE-2022-28378)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 Medium|[CraftCMS](https://github.com/craftcms/cms)|
 
+### Research Publication
+
+`Phuc Le-Thanh, Tuan Le-Anh, and Quan Le-Trung. 2023. Research and Development of a Smart Solution for Runtime Web Application Self-Protection. In Proceedings of the 12th International Symposium on Information and Communication Technology (SOICT '23). Association for Computing Machinery, New York, NY, USA, 304–311. https://doi.org/10.1145/3628797.3628901`
 
 ---
 ### :writing_hand: Latest Blog Posts
