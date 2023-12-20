@@ -8,6 +8,7 @@
 - 🌱 I am currently learning more security certifications to improve my level
 - 🔭 I am currently developing the runtime application self protection (RASP) solution combined with deep learning
 - 🥅 2023 Goals: Contribute more to Open Source projects
+- 🛒 YangYang Shop: I opened a Print on Demand (POD) store on Printfy, selling products I designed myself. Buy now 👉 [<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Printify.png" />][yangyang]
 - ⚡ Fun fact: 🤔🤔🤔🤔
 
 ### 🔗 Connect with me:
@@ -104,3 +105,4 @@
 [bugcrowd]: https://bugcrowd.com/noobpk
 [hackerone]: https://hackerone.com/noobpk
 [telegram]: https://t.me/Noobpk
+[yangyang]: https://yangyang.printify.me
