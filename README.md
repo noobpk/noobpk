@@ -76,7 +76,7 @@
 
 ### 📃 Research Publication
 
-`Phuc Le-Thanh, Tuan Le-Anh, and Quan Le-Trung. 2023. Research and Development of a Smart Solution for Runtime Web Application Self-Protection. In Proceedings of the 12th International Symposium on Information and Communication Technology (SOICT '23). Association for Computing Machinery, New York, NY, USA, 304–311. https://doi.org/10.1145/3628797.3628901`
+```Phuc Le-Thanh, Tuan Le-Anh, and Quan Le-Trung. 2023. Research and Development of a Smart Solution for Runtime Web Application Self-Protection. In Proceedings of the   12th International Symposium on Information and Communication Technology (SOICT '23). Association for Computing Machinery, New York, NY, USA, 304–311. https://doi.org/10.1145/3628797.3628901```
 
 ---
 ### :writing_hand: Latest Blog Posts
