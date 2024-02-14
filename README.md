@@ -24,6 +24,12 @@
 
 ### 💰 Donation channel:
 
+- Github Sponsor
+  
+  ```
+  https://github.com/sponsors/noobpk
+  ```
+  
 - Paypal Address
   
   ```
