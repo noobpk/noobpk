@@ -13,6 +13,8 @@
 
 ### 🔗 Connect with me:
 
+*💬 Quick reply in telegram.*
+
 [<img align="left" alt="noobpk.github.io" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Breezeicons-apps-32-preferences-system-network.svg" />][website]
 [<img align="left" alt="noobpk | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="noobpk | YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
@@ -25,24 +27,18 @@
 ### 💰 Donation channel:
 
 - Github Sponsor
-  
   ```
   https://github.com/sponsors/noobpk
   ```
-  
 - Paypal Address
-  
   ```
   https://paypal.me/noobpk
   ```
-  
-- BNB Smart Chain (BEP20) Contract address
+- BNB Smart Chain (BEP20) Contract Address
   ```
   0x338c6ac8180a6357270f23cee96562b4e79ecbc3
   ```
-  
 - HERE Wallet Address
-
   ```
   noobpk.tg
   ```
