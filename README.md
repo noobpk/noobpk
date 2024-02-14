@@ -22,7 +22,7 @@
 
 <br />
 
-### 💰 Donation:
+### 💰 Donation channel:
 
 - Paypal Address
   
@@ -40,14 +40,12 @@
   ```
   noobpk.tg
   ```
-  
 <!-- ### Research platforms:
 
 [<img align="left" alt="noobpk | Hackthebox" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/hackthebox.svg" />][hackthebox]
 [<img align="left" alt="noobpk | HackerOne" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerone.svg" />][hackerone]
 [<img align="left" alt="noobpk | Bugcrowd" width="22px" src="https://raw.githubusercontent.com/noobpk/noobpk.github.io/master/assets/img/bugcrowd.svg" />][bugcrowd]
 [<img align="left" alt="noobpk | Huntr" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Hacker_behind_PC.svg" />][huntr] -->
-
 <br />
 
 ### 🏆 Licenses & Certifications:
