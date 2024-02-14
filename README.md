@@ -7,7 +7,7 @@
 - 🌱 I am currently studying for a master's degree at the Vietnam National University HCMC - University of Information Technology
 - 🌱 I am currently learning more security certifications to improve my level
 - 🔭 I am currently developing the runtime application self protection (RASP) solution combined with deep learning
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - 🛒 YangYang Shop: I opened a Print on Demand (POD) store on Printfy, selling products I designed myself. Buy now 👉 [<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Printify.png" />][yangyang]
 - ⚡ Fun fact: 🤔🤔🤔🤔
 
@@ -22,13 +22,31 @@
 
 <br />
 
+### 💰 Donation:
 
-### Research platforms:
+- Paypal Address
+  
+  ```
+  https://paypal.me/noobpk
+  ```
+  
+- BNB Smart Chain (BEP20) Contract address
+  ```
+  0x338c6ac8180a6357270f23cee96562b4e79ecbc3
+  ```
+  
+- HERE Wallet Address
+
+  ```
+  noobpk.tg
+  ```
+  
+<!-- ### Research platforms:
 
 [<img align="left" alt="noobpk | Hackthebox" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/hackthebox.svg" />][hackthebox]
 [<img align="left" alt="noobpk | HackerOne" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerone.svg" />][hackerone]
 [<img align="left" alt="noobpk | Bugcrowd" width="22px" src="https://raw.githubusercontent.com/noobpk/noobpk.github.io/master/assets/img/bugcrowd.svg" />][bugcrowd]
-[<img align="left" alt="noobpk | Huntr" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Hacker_behind_PC.svg" />][huntr]
+[<img align="left" alt="noobpk | Huntr" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Hacker_behind_PC.svg" />][huntr] -->
 
 <br />
 
@@ -58,7 +76,7 @@
 |[CVE-2022-0894](https://nvd.nist.gov/vuln/detail/CVE-2022-0894)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 Medium|[Pimcore](https://github.com/pimcore/pimcore)|
 |[CVE-2022-28378](https://nvd.nist.gov/vuln/detail/CVE-2022-28378)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 Medium|[CraftCMS](https://github.com/craftcms/cms)|
 
-### Research Publication
+### 📃 Research Publication
 
 `Phuc Le-Thanh, Tuan Le-Anh, and Quan Le-Trung. 2023. Research and Development of a Smart Solution for Runtime Web Application Self-Protection. In Proceedings of the 12th International Symposium on Information and Communication Technology (SOICT '23). Association for Computing Machinery, New York, NY, USA, 304–311. https://doi.org/10.1145/3628797.3628901`
 
