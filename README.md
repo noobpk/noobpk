@@ -19,7 +19,7 @@
 [<img align="left" alt="noobpk | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="noobpk | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" />][upwork]
 [<img align="left" alt="noobpk | YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
-[<img align="left" alt="noobpk | Medium" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
+[<img align="left" alt="noobpk | Medium" width="22px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
 [<img align="left" alt="noobpk | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 [<img align="left" alt="noobpk | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"/>][telegram]
 
