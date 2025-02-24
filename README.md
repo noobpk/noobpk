@@ -53,9 +53,9 @@
 
 ### 🏆 Licenses & Certifications:
 
-|eLearnSecurity|Offensive Security|The SecOps Grouup| APIsec University |
-|---|---|---| --- |
-|eJPT|OSCP|CAP|API Penetration Testing |
+|eLearnSecurity|Offensive Security|The SecOps Grouup| APIsec University | CyberWarFare Labs |
+|---|---|---| --- | --- |
+|eJPT|OSCP|CAP|API Penetration Testing | Multi-Cloud Red Teaming Analyst |
 |eWPT|   |CNSP| API Security for PCI Compliance |
 |eMAPT|   |   |
 |eCPPTv2|   |   |
