@@ -35,14 +35,7 @@
   ```
   https://paypal.me/noobpk
   ```
-- BNB Smart Chain (BEP20) Contract Address
-  ```
-  0x338c6ac8180a6357270f23cee96562b4e79ecbc3
-  ```
-- HERE Wallet Address
-  ```
-  noobpk.tg
-  ```
+  
 <!-- ### Research platforms:
 
 [<img align="left" alt="noobpk | Hackthebox" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/hackthebox.svg" />][hackthebox]
@@ -53,9 +46,9 @@
 
 ### 🏆 Licenses & Certifications:
 
-|eLearnSecurity|Offensive Security|The SecOps Grouup| APIsec University | CyberWarFare Labs |
-|---|---|---| --- | --- |
-|eJPT|OSCP|CAP|API Penetration Testing | Multi-Cloud Red Teaming Analyst |
+|eLearnSecurity|Offensive Security|The SecOps Grouup| APIsec University | CyberWarFare Labs | AWS |
+|---|---|---| --- | --- | --- |
+|eJPT|OSCP|CAP|API Penetration Testing | Multi-Cloud Red Teaming Analyst | AWS Certified Cloud Practitioner Certification |
 |eWPT|   |CNSP| API Security for PCI Compliance |
 |eMAPT|   |   |
 |eCPPTv2|   |   |
