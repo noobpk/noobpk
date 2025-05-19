@@ -50,7 +50,7 @@
 |---|---|---| --- | --- | --- |
 |eJPT|OSCP|CAP|API Penetration Testing | Multi-Cloud Red Teaming Analyst | AWS Certified Cloud Practitioner Certification |
 |eWPT|   |CNSP| API Security for PCI Compliance |
-|eMAPT|   |   |
+|eMAPT|   |CCSP-AWS|
 |eCPPTv2|   |   |
 
 ### 🔎 CVEs:
