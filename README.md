@@ -109,7 +109,7 @@
 [website]: https://noobpk.github.io
 [youtube]: https://www.youtube.com/channel/UCpd95cbpE3tkYkwjYA9JQCA
 [instagram]: https://www.instagram.com/lethanhphuc.pk/
-[linkedin]: https://www.linkedin.com/in/ltp-noobpk
+[linkedin]: https://www.linkedin.com/in/lee-thanh-phuc/
 [gists]: https://gist.github.com/noobpk
 [gitlab]: https://gitlab.com/noobpk
 [medium]: https://medium.com/@lethanhphuc.pk
