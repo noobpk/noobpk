@@ -8,8 +8,9 @@
 - 🔭 Continue to research and propose security solutions to enhance security for applications.
 - 🌱 I am also learning more security certifications to improve my level.
 - 🥅 Goals: Contribute more to Open Source projects.
-- 🛒 YangYang Shop: I opened a Print on Demand (POD) store on Printfy, selling products I designed myself. Buy now 👉 [<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Printify.png" />][yangyang]
+- 🏰 Orgz: Join YangYang Research Organization on Github. [<img width="22px" alt="—Pngtree—white join now advertising join_3962482" src="https://github.com/user-attachments/assets/abc6f68b-68cf-42dc-889f-8a731ad4116f" />][organization]
 - ⚡ Fun fact: 🐳🐳🐳🐳
+
 
 ### 🔗 Connect with me:
 
@@ -119,3 +120,4 @@
 [telegram]: https://t.me/Noobpk
 [yangyang]: https://yangyang.printify.me
 [upwork]: https://www.upwork.com/freelancers/~01eab478e894418d0b?mp_source=share
+[organization]: https://github.com/YangYang-Research
