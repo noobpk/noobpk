@@ -1,15 +1,15 @@
 🚀🚀🚀
 
-### Hi there! I'm LTPhuc - aka Pk <a href="https://noobpk.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>
+### Hi there! I'm LeThanhPhuc - aka Pk <a href="https://noobpk.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>
 
 ### I hold the position of Senior Officer Information Security at a prominent bank in VietNam, concurrently engaged as a security researcher at YangYang-Research.
 
-- 🌱 I am currently studying for a master's degree at the Vietnam National University HCMC - University of Information Technology
-- 🌱 I am currently learning more security certifications to improve my level
-- 🔭 I am currently developing the runtime application self protection (RASP) solution combined with deep learning
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 👨‍🎓 Master of Science (M.S.) in Information Security, Vietnam National University HCMC - University of Information Technology, 2025.
+- 🔭 Continue to research and propose security solutions to enhance security for applications.
+- 🌱 I am also learning more security certifications to improve my level.
+- 🥅 Goals: Contribute more to Open Source projects.
 - 🛒 YangYang Shop: I opened a Print on Demand (POD) store on Printfy, selling products I designed myself. Buy now 👉 [<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Printify.png" />][yangyang]
-- ⚡ Fun fact: 🤔🤔🤔🤔
+- ⚡ Fun fact: 🐳🐳🐳🐳
 
 ### 🔗 Connect with me:
 
