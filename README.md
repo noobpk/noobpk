@@ -79,11 +79,11 @@
 ### :writing_hand: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Deep Dive into GenAI System Architecture: From Clients to LLM Inference](https://lethanhphuc-pk.medium.com/a-deep-dive-into-genai-system-architecture-from-clients-to-llm-inference-07bbb0c3f38a?source=rss-f49608fd9825------2)
 - [Security by Design: Embedding Data Protection into LLM and GenAI Applications](https://lethanhphuc-pk.medium.com/security-by-design-embedding-data-protection-into-llm-and-genai-applications-d4769e9824c6?source=rss-f49608fd9825------2)
 - [MLSECOPS: Secure your Large Language Model &lpar;LLM&rpar; applications](https://lethanhphuc-pk.medium.com/mlsecops-secure-your-large-language-model-llm-applications-6b60cb25c4fa?source=rss-f49608fd9825------2)
 - [DevSecOps: A journey to protect your applications](https://lethanhphuc-pk.medium.com/devsecops-a-journey-to-protect-your-applications-fdee7b4700eb?source=rss-f49608fd9825------2)
 - [Gemini-Self-Protector: The Runtime Application Self-Protection Solution Combined With Deep Learning](https://lethanhphuc-pk.medium.com/gemini-self-protector-the-runtime-application-self-protection-solution-combined-with-deep-learning-712033dbc961?source=rss-f49608fd9825------2)
-- [[Jailbreak] Tutorial downgrade from iOS 15.6.1 to iOS 14.6 with sunst0rm](https://lethanhphuc-pk.medium.com/jailbreak-tutorial-downgrade-from-ios-15-6-1-to-ios-14-6-with-sunst0rm-d5626101423b?source=rss-f49608fd9825------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
