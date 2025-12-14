@@ -2,13 +2,13 @@
 
 ### Hi there! I'm LeThanhPhuc - aka Pk <a href="https://noobpk.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>
 
-### I hold the position of Senior Officer Information Security at a prominent bank in VietNam, concurrently engaged as a security researcher at YangYang-Research.
+### I hold the position of Senior Officer Information Security at a prominent bank in VietNam, concurrently engaged as a security researcher at YangYang.
 
 - 👨‍🎓 Master of Science (M.S.) in Information Security, Vietnam National University HCMC - University of Information Technology, 2025.
 - 🔭 Continue to research and propose security solutions to enhance security for applications.
 - 🌱 I am also learning more security certifications to improve my level.
 - 🥅 Goals: Contribute more to Open Source projects.
-- 🏰 Orgz: Join YangYang Research Organization on Github. [<img width="22px" alt="—Pngtree—white join now advertising join_3962482" src="https://github.com/user-attachments/assets/abc6f68b-68cf-42dc-889f-8a731ad4116f" />][organization]
+- 🏰 Orgz: Join YangYang Organization on Github. [<img width="22px" alt="—Pngtree—white join now advertising join_3962482" src="https://github.com/user-attachments/assets/abc6f68b-68cf-42dc-889f-8a731ad4116f" />][organization]
 - ⚡ Fun fact: 🐳🐳🐳🐳
 
 
@@ -21,7 +21,6 @@
 [<img align="left" alt="noobpk | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" />][upwork]
 [<img align="left" alt="noobpk | YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
 [<img align="left" alt="noobpk | Medium" width="22px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
-[<img align="left" alt="noobpk | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 [<img align="left" alt="noobpk | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"/>][telegram]
 
 <br />
@@ -108,7 +107,6 @@
 
 [website]: https://noobpk.github.io
 [youtube]: https://www.youtube.com/channel/UCpd95cbpE3tkYkwjYA9JQCA
-[instagram]: https://www.instagram.com/lethanhphuc.pk/
 [linkedin]: https://www.linkedin.com/in/lee-thanh-phuc/
 [gists]: https://gist.github.com/noobpk
 [gitlab]: https://gitlab.com/noobpk
